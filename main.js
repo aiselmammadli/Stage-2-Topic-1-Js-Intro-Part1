@@ -1,6 +1,4 @@
 
-
-
 // task1
 var numChildren = 2;
 var partnerName = "Dmitry Ivanov";
@@ -10,14 +8,7 @@ var jobTitle = "software developer";
 // You will be a software developer in Canada, and married to Dmitry Ivanov with 2 kids.
 var result = "You will be a " + jobTitle +  " in " + geographicLocation + ", and married to " + partnerName +
 " with " + numChildren + " kids.";
-
 console.log(result);
-
-
-
-
-
-
 
 
 
@@ -34,12 +25,6 @@ var age2 = age1 - 1;
 var result = "I will be either " + age2 + " or " + age1 + " in " + futureYear;
   
 console.log(result);
-
-
-
-
-
-
 
 
 
@@ -71,6 +56,7 @@ var area = Math.PI * radius * radius;
 console.log("The circumference is" + circumference );
 console.log("The area is" + area );
 
+
 // task5
 // Celsius & Fahrenheit
 var celsius = 30;
@@ -84,5 +70,5 @@ console.log(f + "°F is " + c + "°C");
 
 
 
-// task6
+
 
